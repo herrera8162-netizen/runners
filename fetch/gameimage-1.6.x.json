@@ -12,6 +12,22 @@
   {
     "layer": "https://github.com/gameimage/runners/releases/download/gameimage-1.6.x/pcsx2.layer"
   },
+  "dolphin":
+  {
+    "layer": "https://github.com/herrera8162-netizen/runners/releases/download/gameimage-fork-1/dolphin.layer"
+  },
+  "melonds":
+  {
+    "layer": "https://github.com/herrera8162-netizen/runners/releases/download/gameimage-fork-1/melonds.layer"
+  },
+  "azahar":
+  {
+    "layer": "https://github.com/herrera8162-netizen/runners/releases/download/gameimage-fork-1/azahar.layer"
+  },
+  "cemu":
+  {
+    "layer": "https://github.com/herrera8162-netizen/runners/releases/download/gameimage-fork-1/cemu.layer"
+  },
   "wine":
   {
     "layer":
